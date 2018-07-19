@@ -1,0 +1,3 @@
+rootProject.name = 'codebrawl18'
+
+include ':app'
